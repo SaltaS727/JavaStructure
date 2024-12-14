@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(135deg, #d8b4ec4b, #d99bc9, #f4f4f400);
+    color: #161616fa;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+   
+    
+}
+
+h2{
+    text-align: center;
+}
+
